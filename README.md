@@ -14,7 +14,7 @@ I am into Web and App Development (mobile/desktop), Cloud Computing and Mathine 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> 
 
 ## I make YouTube Videos 🎥
-I enjoy travelling and I make YouTube videos about countries and cities that I visit. Also I talk a bit about shooting videos, editing and video equipment. Check out my Channel (Russian-speaking) [here](https://www.youtube.com/c/alexChaplinsky)!
+I enjoy travelling and I make YouTube videos about countries and cities that I visit. Also I talk a bit about shooting videos, editing and video equipment. Check out my Channel [here](https://www.youtube.com/c/alexChaplinsky)!
 
 ![Views](https://img.shields.io/youtube/channel/views/UCoI8hLJndOYsNwk0NUQN0OQ?style=social) ![Subs](https://img.shields.io/youtube/channel/subscribers/UCoI8hLJndOYsNwk0NUQN0OQ?style=social)
 
