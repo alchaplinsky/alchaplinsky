@@ -1,6 +1,7 @@
 ### Hi there, I'm Alex 👋
 
 ![img](https://github-readme-stats.vercel.app/api?username=alchaplinsky&count_private=true&show_icons=true&theme=light)
+[![Alex Chaplinsky profile views](https://u8views.com/api/v1/github/profiles/695947/views/day-week-month-total-count.svg)](https://u8views.com/github/alchaplinsky)
 
 # Developement experience
 I am into Web and App Development (mobile/desktop), Cloud Computing and Mathine learning. Here's a summary of my tech stack!
