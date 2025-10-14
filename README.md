@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 
-![img](https://github-readme-stats.vercel.app/api?username=alchaplinsky&count_private=true&show_icons=true&theme=light)
+![img](https://github-readme-stats.vercel.app/api?username=alchaplinsky&count_private=true&show_icons=true)
 
 # Developement experience
 I am into Web and App Development (mobile/desktop), Cloud Computing and Machine learning. Here's a summary of my tech stack!
