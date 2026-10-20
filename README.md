@@ -19,22 +19,22 @@ These days most of my open-source AI work and research happens at **[FWD AI](htt
 
 ## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/fwdai/rowel/main/src-tauri/icons/icon.png" width="24" align="absmiddle" alt="" /> [Rowel](https://rowel.app) &nbsp; <a href="https://github.com/fwdai/rowel"><img src="https://img.shields.io/github/stars/fwdai/rowel?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> <a href="https://github.com/fwdai/rowel/releases"><img src="https://img.shields.io/github/downloads/fwdai/rowel/total?style=flat-square&label=downloads&color=2da44e&labelColor=d0d7de" alt="Downloads" align="absmiddle" /></a>
+### <img src="https://raw.githubusercontent.com/fwdai/rowel/main/src-tauri/icons/icon.png" width="28" align="absmiddle" alt="" /> [Rowel](https://rowel.app) &nbsp; <a href="https://github.com/fwdai/rowel"><img src="https://img.shields.io/github/stars/fwdai/rowel?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> <a href="https://github.com/fwdai/rowel/releases"><img src="https://img.shields.io/github/downloads/fwdai/rowel/total?style=flat-square&label=downloads&color=2da44e&labelColor=d0d7de" alt="Downloads" align="absmiddle" /></a>
 
 **Local-first secrets manager.** Passwords, passkeys, cards, IDs, SSH keys and `.env` files in one encrypted vault on your own devices. No account, no server, no subscription.
 <br/><sub>Rust · Tauri · [rowel.app](https://rowel.app) · [GitHub](https://github.com/fwdai/rowel)</sub>
 
-### <img src="https://raw.githubusercontent.com/fwdai/fletch/main/src-tauri/icons/icon.png" width="24" align="absmiddle" alt="" /> [Fletch](https://fletch.sh) &nbsp; <a href="https://github.com/fwdai/fletch"><img src="https://img.shields.io/github/stars/fwdai/fletch?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
+### <img src="https://raw.githubusercontent.com/fwdai/fletch/main/src-tauri/icons/icon.png" width="28" align="absmiddle" alt="" /> [Fletch](https://fletch.sh) &nbsp; <a href="https://github.com/fwdai/fletch"><img src="https://img.shields.io/github/stars/fwdai/fletch?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
 
 **A new kind of IDE for agentic engineering.** Run Claude Code, Codex, Cursor, OpenCode and more in sealed workspaces, each with its own repo clone and codebase index, chained into deterministic workflows that plan, build, review and test.
 <br/><sub>Rust · Tauri · macOS · [fletch.sh](https://fletch.sh) · [GitHub](https://github.com/fwdai/fletch)</sub>
 
-### <img src="https://raw.githubusercontent.com/fwdai/reticle/main/src-tauri/icons/icon.png" width="24" align="absmiddle" alt="" /> [Reticle](https://reticle.run) &nbsp; <a href="https://github.com/fwdai/reticle"><img src="https://img.shields.io/github/stars/fwdai/reticle?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
+### <img src="https://raw.githubusercontent.com/fwdai/reticle/main/src-tauri/icons/icon.png" width="28" align="absmiddle" alt="" /> [Reticle](https://reticle.run) &nbsp; <a href="https://github.com/fwdai/reticle"><img src="https://img.shields.io/github/stars/fwdai/reticle?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
 
 **Postman for AI.** Design, test and debug LLM calls and AI agents across providers, and run evals on them, entirely on your machine.
 <br/><sub>TypeScript · macOS, Linux, Windows · [reticle.run](https://reticle.run) · [GitHub](https://github.com/fwdai/reticle)</sub>
 
-### <img src="https://raw.githubusercontent.com/alchaplinsky/osoji/main/src-tauri/icons/icon.png" width="24" align="absmiddle" alt="" /> [Osoji](https://github.com/alchaplinsky/osoji) &nbsp; <a href="https://github.com/alchaplinsky/osoji"><img src="https://img.shields.io/github/stars/alchaplinsky/osoji?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
+### <img src="https://raw.githubusercontent.com/alchaplinsky/osoji/main/src-tauri/icons/icon.png" width="28" align="absmiddle" alt="" /> [Osoji](https://github.com/alchaplinsky/osoji) &nbsp; <a href="https://github.com/alchaplinsky/osoji"><img src="https://img.shields.io/github/stars/alchaplinsky/osoji?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a>
 
 **See what's eating your disk, then clean it.** A fast disk explorer for macOS that scans 10M files in about 30 seconds and shows them as a sunburst you can drill into and clean up.
 <br/><sub>Rust · Tauri · macOS · [GitHub](https://github.com/alchaplinsky/osoji)</sub>
@@ -46,10 +46,10 @@ These days most of my open-source AI work and research happens at **[FWD AI](htt
 
 ### More Open Source
 
-- 🛠️ **[bozon](https://github.com/railsware/bozon)** ![Stars](https://img.shields.io/github/stars/railsware/bozon?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de) - CLI for building, testing and publishing Electron apps
-- 🤖 **[regent](https://github.com/fwdai/regent)** ![Stars](https://img.shields.io/github/stars/fwdai/regent?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de) - Framework for building AI agents in Ruby
-- 🤗 **[hugging-face](https://github.com/fwdai/hugging-face)** ![Stars](https://img.shields.io/github/stars/fwdai/hugging-face?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de) - Ruby client for the Hugging Face API
-- ✨ **[gen-ai](https://github.com/alchaplinsky/gen-ai)** ![Stars](https://img.shields.io/github/stars/alchaplinsky/gen-ai?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de) - One Ruby API for OpenAI, Gemini, Stability AI and more
+- 🛠️ **[bozon](https://github.com/railsware/bozon)** <a href="https://github.com/railsware/bozon"><img src="https://img.shields.io/github/stars/railsware/bozon?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> - CLI for building, testing and publishing Electron apps
+- 🤖 **[regent](https://github.com/fwdai/regent)** <a href="https://github.com/fwdai/regent"><img src="https://img.shields.io/github/stars/fwdai/regent?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> - Framework for building AI agents in Ruby
+- 🤗 **[hugging-face](https://github.com/fwdai/hugging-face)** <a href="https://github.com/fwdai/hugging-face"><img src="https://img.shields.io/github/stars/fwdai/hugging-face?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> - Ruby client for the Hugging Face API
+- ✨ **[gen-ai](https://github.com/alchaplinsky/gen-ai)** <a href="https://github.com/alchaplinsky/gen-ai"><img src="https://img.shields.io/github/stars/alchaplinsky/gen-ai?style=flat-square&label=%E2%98%85&color=eaeef2&labelColor=d0d7de" alt="Stars" align="absmiddle" /></a> - One Ruby API for OpenAI, Gemini, Stability AI and more
 
 ## Writing
 
